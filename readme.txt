@@ -15,7 +15,7 @@ Easily create and manage a page scroll to top
 This plugin automatically add right corner in the footer area of your site that only appears when you scroll the page down, and when clicked gently roll the site to the top. All this without any modification to your template.sr-scroll-to-top-wp plugin makes the scrolling of a page easier. When the user click on this button it smoothly scrolls to the top of Web page.sr-scroll-to-top-wp plugin offers Customizable options via the admin panel.
  
  
-    = Plugin Features = 
+= Plugin Features = 
  
 
     Compatible with all WordPress themes
