@@ -32,7 +32,7 @@ This plugin automatically add right corner in the footer area of your site that 
 * Works on almost all browsers including IE6
 * No need to add any markup to your theme
 	
-For Live Demo:=http://sohelrazzaque/plugins/sr-scroll-to-top-wp
+* For Live Demo:=http://sohelrazzaque/plugins/sr-scroll-to-top-wp
  
 
 == Installation ==
