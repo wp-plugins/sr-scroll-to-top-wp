@@ -17,22 +17,21 @@ This plugin automatically add right corner in the footer area of your site that 
  
 = Plugin Features = 
  
-
-    Compatible with all WordPress themes
-	Customizable options via the admin panel
-    It is user friendly and very easy to install
-    Zero coding skills required to set up this plugin
+Compatible with all WordPress themes
+Customizable options via the admin panel
+It is user friendly and very easy to install
+Zero coding skills required to set up this plugin
     
-    *You can change Distance from top showing 
-    *You can add your scroll Speed
-    *You can add your animation Speed/Smooth scrolling animation
-    *You can add your animation effected
+*You can change Distance from top showing 
+*You can add your scroll Speed
+*You can add your animation Speed/Smooth scrolling animation
+*You can add your animation effected
 	
-    It is user friendly and very easy to install
-	Works on almost all browsers including IE6
-    No need to add any markup to your theme
+It is user friendly and very easy to install
+Works on almost all browsers including IE6
+No need to add any markup to your theme
 	
-	For Live Demo:=http://sohelrazzaque/plugins/sr-scroll-to-top-wp
+For Live Demo:=http://sohelrazzaque/plugins/sr-scroll-to-top-wp
  
 
 == Installation ==
