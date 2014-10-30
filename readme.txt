@@ -11,7 +11,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Easily create and manage a page scroll to top
 
-== Description ==
+== Description ==  
+
 This plugin automatically add right corner in the footer area of your site that only appears when you scroll the page down, and when clicked gently roll the site to the top. All this without any modification to your template.sr-scroll-to-top-wp plugin makes the scrolling of a page easier. When the user click on this button it smoothly scrolls to the top of Web page.sr-scroll-to-top-wp plugin offers Customizable options via the admin panel.
  
  
@@ -30,7 +31,7 @@ This plugin automatically add right corner in the footer area of your site that 
 * Works on almost all browsers including IE6
 * No need to add any markup to your theme
 	
-* For Live Demo:=http://sohelrazzaque/plugins/sr-scroll-to-top-wp
+
  
 
 == Installation ==
@@ -53,9 +54,9 @@ If you need link support in ticker, you have to purchase premium version. Premiu
 
 == Screenshots ==
 
-1.option panel menu
-2.sr-scroll-to-top-wp plugin Admin Panel Screenshot
-3.sr-scroll-to-top-wp plugin look like every page in WordPress theme
+1. option panel menu
+2. sr-scroll-to-top-wp plugin Admin Panel Screenshot
+3. sr-scroll-to-top-wp plugin look like every page in WordPress theme
 
 == Changelog ==
 
