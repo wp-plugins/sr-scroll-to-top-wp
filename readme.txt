@@ -54,9 +54,9 @@ You can install as others regular wordpress plugin. No different way. Please see
 If you need link support in ticker, you have to purchase premium version. Premium version is coming soon. Please wait for that.
 
 == Screenshots ==
-1.option panel menu.
-2.sr-scroll to top-wp plugin Admin Panel Screenshot.
-3.sr-scroll to top-wp plugin look like every page in WordPress theme.
+1.option panel menu
+2.sr-scroll to top-wp plugin Admin Panel Screenshot
+3.sr-scroll to top-wp plugin look like every page in WordPress theme
 
 == Changelog ==
 
